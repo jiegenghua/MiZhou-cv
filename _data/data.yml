@@ -1,0 +1,157 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+   # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Mi Zhou
+    tagline: ECE master
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: mzhou91@gatech.edu
+    phone: +33 0 65 042 1605
+   #website: jiegenghua.github.io/MZ-Blog/ #do not add http://
+    linkedin: Mi Zhou
+    github: jiegenghua
+    gitlab:
+    bitbucket:
+    twitter: '@Jamie_lkfrbrme'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Chinese
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: French
+        level: Amateur
+
+    interests:
+      - item: Reading
+        link:
+
+      - item: Music
+        link:
+
+      - item: Texas Hold'em Poker
+        link:
+
+education:
+    - degree: MSc in Electrical and Computer Engineering
+      university: Georgia Institute of Technology
+      time: 2018 - 2020
+     
+
+    - degree: BSc in Automation
+      university: Nankai University
+      time: 2013 - 2017
+    
+    
+    - degree: BSc in Mathematics and Applied Mathematics
+      university: Nankai University
+      time: 2013 - 2017
+
+experiences:
+    - role: Intern
+      time: 2019/01 - Present
+      company: Georgia Tech Lorraine
+      details: |
+        Model Predictive Control for Autonomous Robot
+
+          - Bullet point
+          - Bullet point
+
+    - role: Intern
+      time: 2018/05-2018/07
+      company: Tsinghua D-Lab
+      details: |
+        Write blog about Machine Learning
+
+          - Bullet point
+          - Bullet point
+          
+    - role: Intern
+      time: 2016/07-2018/05
+      company: Tianjin Key Laboratory of Intelligent Robotics, Nankai University
+      details: |
+        Design controller and build model for nonlinear systems.
+
+          - Research on two-DOF soft robotic arm with pneumatic artificial muscle 2017/09-2018/5 
+          - Research on overhead cranes with flexible rod 2017/06-2018/5 
+          - Precise localization of mobile robots 2015/08-2015/11 
+
+projects:
+    title: Projects
+
+    assignments:
+      - title: MPC + Reinforcement Learning + Mobile robot
+        #link: "#hook"
+        tagline: "still working"
+
+      - title: Chaos control of mobile robot
+        #link: "#"
+        tagline: "still working"
+
+      - title: Imitation Learning
+        #link: "#"
+        tagline: "still working"
+        
+      - title: Precise localization of mobile robots
+        #link: "#"
+        tagline: "Robot localization "
+
+      - title: Anti-swing and Positioning Control for Overhead Cranes
+        #link: "#"
+        tagline: "Design algorithm to control an underactuated crane system"
+
+      - title: Online commodity sales forecasting based on the analysis of the picture emotions
+        #link: "#"
+        tagline: "Predict the sales based on the emotions of a picture on Taobao"
+        
+publications:
+    title: Publications
+    papers:
+      - title: A novel sliding mode control method for underactuated overhead cranes
+        authors: Mi Zhou, Ning Sun, Yongchun Fang
+        conference: Chinese Congress of Automation (CAC), 2017
+
+     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+     # - title: A syntax directed compiler for Algol 60
+      #  authors: Edgar T. Irons
+       # conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python & Tensorflow
+        level: 98%
+
+      - name: Matlab
+        level: 98%
+
+      - name: C++ & ROS
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 50%
+
+      - name: Java
+        level: 85%
+
+      - name: Latex
+        level: 98%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
