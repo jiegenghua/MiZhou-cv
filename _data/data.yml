@@ -66,8 +66,8 @@ experiences:
       details: |
         Model Predictive Control for Autonomous Robot
 
-          - Bullet point
-          - Bullet point
+          - Navigation of Autonomous Robot
+          - Model Predictive Control
 
     - role: Intern
       time: 2018/05-2018/07
@@ -75,8 +75,8 @@ experiences:
       details: |
         Write blog about Machine Learning
 
-          - Bullet point
-          - Bullet point
+          - Read paper
+          - Re-run algorithms
           
     - role: Intern
       time: 2016/07-2018/05
@@ -84,9 +84,9 @@ experiences:
       details: |
         Design controller and build model for nonlinear systems.
 
-          - Research on two-DOF soft robotic arm with pneumatic artificial muscle 2017/09-2018/5 
-          - Research on overhead cranes with flexible rod 2017/06-2018/5 
-          - Precise localization of mobile robots 2015/08-2015/11 
+          - Research on two-DOF soft robotic arm with pneumatic artificial muscle  (2017/09-2018/5) 
+          - Research on overhead cranes with flexible rod                          (2017/06-2018/5) 
+          - Precise localization of mobile robots                                  (2015/08-2015/11) 
 
 projects:
     title: Projects
