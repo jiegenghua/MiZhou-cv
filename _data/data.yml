@@ -89,9 +89,12 @@ experiences:
           - Precise localization of mobile robots                                  (2015/08-2015/11) 
     - role: Research
       time: 2016/06-2017/06
-      company: College of Mathematics, Nankai University
+      company: School of Mathematical Sciences, Nankai University (advisor: Longmin Wang)
       details: |
-          
+          The research of probability inference model based on gaussian belief propagation
+          - Analyze the inference problem of gaussian graphic models based on walks in a graph
+          - Analyze the relationship with dominant model, attractive model, and non-frustrated model
+          - Approximate loopy belief propogation
 
 projects:
     title: Projects
@@ -141,7 +144,7 @@ skills:
 
     toolset:
       - name: Python & Tensorflow
-        level: 98%
+        level: 90%
 
       - name: Matlab
         level: 98%
