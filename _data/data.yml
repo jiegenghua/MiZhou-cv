@@ -64,10 +64,10 @@ experiences:
       time: 2019/01 - Present
       company: Georgia Tech Lorraine
       details: |
-        Model Predictive Control for Autonomous Robot
+        Adaptive Control for Autonomous Robot
 
           - Navigation of Autonomous Robot
-          - Model Predictive Control
+          - Model Friction Using Deep Learning Network
 
     - role: Intern
       time: 2018/05-2018/07
@@ -87,22 +87,27 @@ experiences:
           - Research on two-DOF soft robotic arm with pneumatic artificial muscle  (2017/09-2018/5) 
           - Research on overhead cranes with flexible rod                          (2017/06-2018/5) 
           - Precise localization of mobile robots                                  (2015/08-2015/11) 
+    - role: Research
+      time: 2016/06-2017/06
+      company: College of Mathematics, Nankai University
+      details: |
+          
 
 projects:
     title: Projects
 
     assignments:
-      - title: MPC + Reinforcement Learning + Mobile robot
+      - title: Adaptive Control + Mobile Robot
         #link: "#hook"
         tagline: "still working"
 
-      - title: Chaos control of mobile robot
+      - title: Using Machine Learning Method to Predict Chaotic Behavior of Lorenz System 
         #link: "#"
-        tagline: "still working"
+        tagline: Echo State Network, LSTM, Multi-step Prediction
 
-      - title: Imitation Learning
+      - title: Reinforcement Learning
         #link: "#"
-        tagline: "still working"
+        tagline: DQN, DPG, DDPG
         
       - title: Precise localization of mobile robots
         #link: "#"
