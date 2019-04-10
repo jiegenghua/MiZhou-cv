@@ -102,9 +102,9 @@ projects:
     title: Projects
 
     assignments:
-      - title: Edge detection using structured forest
+      - title: Edge detection using structured forest, holistically nested edge detection
         #link: "#hook"
-        tagline: Caffe
+        tagline: Our own lake dataset, Caffe
 
       - title: Using Machine Learning Method to Predict Chaotic Behavior of Lorenz System 
         #link: "#"
