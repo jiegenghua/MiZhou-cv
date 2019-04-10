@@ -102,13 +102,13 @@ projects:
     title: Projects
 
     assignments:
-      - title: Adaptive Control + Mobile Robot
+      - title: Edge detection using structured forest
         #link: "#hook"
-        tagline: "still working"
+        tagline: Caffe
 
       - title: Using Machine Learning Method to Predict Chaotic Behavior of Lorenz System 
         #link: "#"
-        tagline: Echo State Network, LSTM, Multi-step Prediction
+        tagline: Echo State Network, LSTM (keras), Multi-step Prediction
 
       - title: Reinforcement Learning
         #link: "#"
