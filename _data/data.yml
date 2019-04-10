@@ -92,7 +92,7 @@ experiences:
       time: 2016/06-2017/06
       company: School of Mathematical Sciences, Nankai University
       details: |
-        The research of probability inference model based on gaussian belief propagation
+        The research of probability inference model based on Gaussian belief propagation
         
           - Analyze the inference problem of gaussian graphic models based on walks in a graph
           - Analyze the relationship with dominant model, attractive model, and non-frustrated model
