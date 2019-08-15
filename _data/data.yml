@@ -61,13 +61,13 @@ education:
 
 experiences:
     - role: Intern
-      time: 2019/01 - Present
+      time: 2019/05 - 2019/07
       company: Georgia Tech Lorraine
       details: |
-        Adaptive Control for Autonomous Robot
+        d2-net SLAM
 
-          - Navigation of Autonomous Robot
-          - Model Friction Using Deep Learning Network
+          - Design Jaco Vision System
+          - Combine D2-net with SLAM
 
     - role: Intern
       time: 2018/05-2018/07
