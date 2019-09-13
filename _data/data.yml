@@ -68,6 +68,7 @@ experiences:
 
           - Design Jaco Vision System
           - Combine D2-net with SLAM
+          - Object detection using Faster RCNN, YOLO 
 
     - role: Intern
       time: 2018/05-2018/07
