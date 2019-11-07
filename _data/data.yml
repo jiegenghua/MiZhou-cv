@@ -134,9 +134,9 @@ publications:
         authors: Mi Zhou, Ning Sun, Yongchun Fang
         conference: Chinese Congress of Automation (CAC), 2017
 
-     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     - title: "A flexible rope crane control method"
+        authors: Ning Sun, Jianyi Zhang, Tong Yang, Yu Fu, Mi Zhou
+        conference: IEEE International Conference on Real-time Computing and Robotics
 
      # - title: A syntax directed compiler for Algol 60
       #  authors: Edgar T. Irons
