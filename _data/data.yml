@@ -17,7 +17,7 @@ sidebar:
    #website: jiegenghua.github.io/MZ-Blog/ #do not add http://
     linkedin: Mi Zhou
     github: jiegenghua
-    gitlab:
+    blog: https://jiegenghua.wordpress.com/
     twitter: '@Jamie_lkfrbrme'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -44,6 +44,9 @@ sidebar:
         link:
 
 education:
+    - degree: Ph.D. in Electrical and Computer Engineering
+      university: Georgia Institute of Technology
+      time: 2020 - 2024
     - degree: MS in Electrical and Computer Engineering
       university: Georgia Institute of Technology
       time: 2018 - 2020
