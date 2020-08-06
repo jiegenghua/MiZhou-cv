@@ -140,9 +140,13 @@ publications:
         authors: Ning Sun, Jianyi Zhang, Tong Yang, Yu Fu, Mi Zhou
         conference: IEEE International Conference on Real-time Computing and Robotics, 2018
 
-     # - title: A syntax directed compiler for Algol 60
-      #  authors: Edgar T. Irons
-       # conference: "Comm. ACM 4 (1961), 51–55"
+      - title: A Performance Comparison of LSTM and Recursive SID Methods in Thermal Modeling of Implantable Medical Devices
+        authors: A. Ermis, M. Zhou, Y.-P. Lai, and Y. Zhang
+        conference: 2020 IEEE Conference on Control Technology and Applications (CCTA)
+        
+      #- title: "A flexible rope crane control method"
+      #  authors: Ning Sun, Jianyi Zhang, Tong Yang, Yu Fu, Mi Zhou
+      #  conference: IEEE International Conference on Real-time Computing and Robotics, 2018
 
 skills:
     title: Skills &amp; Proficiency
