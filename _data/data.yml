@@ -32,6 +32,9 @@ sidebar:
 
       - idiom: French
         level: Amateur
+        
+      - idiom: German
+        level: Amateur
 
     interests:
       - item: Reading
@@ -71,15 +74,6 @@ experiences:
           - Design Jaco Vision System
           - Combine D2-net with SLAM
           - Object detection using Faster RCNN, YOLO 
-
-    - role: Intern
-      time: 2018/05-2018/07
-      company: Tsinghua D-Lab
-      details: |
-        Write blog about Machine Learning
-
-          - Read paper
-          - Re-run algorithms
           
     - role: Intern
       time: 2016/07-2018/05
@@ -100,6 +94,11 @@ experiences:
           - Analyze the inference problem of gaussian graphic models based on walks in a graph
           - Analyze the relationship with dominant model, attractive model, and non-frustrated model
           - Approximate loopy belief propogation
+    
+    -role: Researcher
+      details: |  
+          - Reviewer for ACC, CDC 
+          - Orgamizer of the 2022 Georgia Tech Decision and Control Laboratory (DCL) Student Symposium
 
 projects:
     title: Projects
