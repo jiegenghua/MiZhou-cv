@@ -33,8 +33,6 @@ sidebar:
       - idiom: French
         level: Amateur
         
-      - idiom: German
-        level: Amateur
 
     interests:
       - item: Reading
@@ -43,17 +41,18 @@ sidebar:
       - item: Music
         link:
 
-      - item: Texas Hold'em Poker
-        link:
-
 education:
     - degree: Ph.D. in Electrical and Computer Engineering
       university: Georgia Institute of Technology
       time: 2020 - 2024
+      
     - degree: MS in Electrical and Computer Engineering
       university: Georgia Institute of Technology
       time: 2018 - 2020
-     
+      
+    - degree: MS in Computer Science
+      university: Georgia Institute of Technology
+      time: 2018 - 2022     
 
     - degree: BS in Automation
       university: Nankai University, China
