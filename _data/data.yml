@@ -127,7 +127,6 @@ projects:
       - title: Online commodity sales forecasting based on the analysis of the picture emotions
         #link: "#"
         tagline: "Predicted sales of a given commodity based on the emotions of this picture gives for buyer on Taobao"
-        details: |
             - Crawled clothes, shoes, etc. data from Taobao
         
 publications:
