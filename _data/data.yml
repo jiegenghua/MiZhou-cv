@@ -70,7 +70,7 @@ experiences:
       details: |
         d2-net SLAM
 
-          - Design Jaco Vision System using solidworks
+          - Design Jaco Vision System using Solidworks
           - Combine D2-net with SLAM
           - Object detection using Faster RCNN, YOLO 
           
@@ -80,8 +80,8 @@ experiences:
       details: |
         Design controller and build model for nonlinear systems.
 
-          - Research on two-DOF soft robotic arm with pneumatic artificial muscle  (2017/09-2018/5) 
-          - Research on overhead cranes with flexible rod                          (2017/06-2018/5) 
+          - Research on two-DOF soft robotic arm with pneumatic artificial muscle: modeling and controller design  (2017/09-2018/5) 
+          - Research on control of overhead cranes with flexible rod                          (2017/06-2018/5) 
           - Precise localization of mobile robots                                  (2015/08-2015/11) 
           
     - role: Intern
@@ -112,27 +112,19 @@ projects:
     assignments:
       - title: Edge detection using structured forest, holistically nested edge detection
         #link: "#hook"
-        tagline: Our own lake dataset, Caffe
+        tagline: "Metz France lake dataset, Caffe"
 
       - title: Using Machine Learning Method to Predict Chaotic Behavior of Lorenz System 
         #link: "#"
-        tagline: Echo State Network, LSTM (keras), Multi-step Prediction
-
-      - title: Reinforcement Learning
-        #link: "#"
-        tagline: DQN, DPG, DDPG
-        
-      - title: Precise localization of mobile robots
-        #link: "#"
-        tagline: "Robot localization "
+        tagline: "Echo State Network, LSTM (keras), Multi-step Prediction"
 
       - title: Anti-swing and Positioning Control for Overhead Cranes
         #link: "#"
-        tagline: "Design algorithm to control an underactuated crane system"
+        tagline: "Designed a efficient sliding mode controller to control an underactuated crane system"
 
       - title: Online commodity sales forecasting based on the analysis of the picture emotions
         #link: "#"
-        tagline: "Predict the sales based on the emotions of a picture on Taobao"
+        tagline: "Predicted sales of a given commodity based on the emotions of this picture gives for buyer on Taobao"
         
 publications:
     title: Publications
@@ -154,7 +146,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Tensorflow
+      - name: Python & Tensorflow & Pytorch
         level: 90%
 
       - name: Matlab
