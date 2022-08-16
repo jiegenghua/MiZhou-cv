@@ -42,24 +42,24 @@ sidebar:
         link:
 
 education:
-    - degree: Ph.D. in Electrical and Computer Engineering
+    - degree: Ph.D. in Electrical and Computer Engineering (3.82/4.0)
       university: Georgia Institute of Technology
       time: 2020 - 2024
       
-    - degree: MS in Electrical and Computer Engineering
+    - degree: MS in Electrical and Computer Engineering (3.8/4.0)
       university: Georgia Institute of Technology
       time: 2018 - 2020
       
-    - degree: MS in Computer Science
+    - degree: MS in Computer Science (4.0/4.0)
       university: Georgia Institute of Technology
       time: 2018 - 2022     
 
-    - degree: BS in Automation
+    - degree: BS in Automation (3.75/4.0)
       university: Nankai University, China
       time: 2013 - 2017
     
     
-    - degree: BS in Mathematics and Applied Mathematics
+    - degree: BS in Mathematics and Applied Mathematics (3.75/4.0)
       university: Nankai University, China
       time: 2013 - 2017
 
@@ -70,7 +70,7 @@ experiences:
       details: |
         d2-net SLAM
 
-          - Design Jaco Vision System
+          - Design Jaco Vision System using solidworks
           - Combine D2-net with SLAM
           - Object detection using Faster RCNN, YOLO 
           
@@ -101,6 +101,10 @@ experiences:
           - Organizer of the 2022 Georgia Tech Decision and Control Laboratory (DCL) Student Symposium
           - Committee member of IROS workshop 2022
           - Georgia Tech ORS mentor
+    
+    - role: Reward
+      details: |
+          - Schlumberger GTL Fellowship (2019 fall)
 
 projects:
     title: Projects
