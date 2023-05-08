@@ -30,15 +30,15 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: French
+      - idiom: French, Japanese
         level: Amateur
         
 
     interests:
-      - item: Reading
+      - item: Reading, literature, psychology
         link:
 
-      - item: Music
+      - item: Music, Musical Opera, hiking, gardening
         link:
 
 education:
@@ -101,6 +101,9 @@ experiences:
           - Organizer of the 2022 Georgia Tech Decision and Control Laboratory (DCL) Student Symposium
           - Committee member of IROS workshop 2022
           - Georgia Tech ORS mentor (2022)
+          - Women in ECE Volunteer for K12 education
+          - Attendee of WE22 conference for women in engineering and technology
+          - Volunteer of service for disabilities in Tianjin
           - Running a wechat official account that publish articles to help mathematics learning for high school and junior high school students (2017-Present) 
     
     - role: Reward
